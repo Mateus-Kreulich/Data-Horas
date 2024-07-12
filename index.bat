@@ -9,3 +9,4 @@ echo Data: %date%
 echo Hora: %time%
 timeout /t 1 >nul
 goto loop
+ 
