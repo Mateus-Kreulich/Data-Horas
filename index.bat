@@ -6,7 +6,6 @@ cls
 echo A data e hora atual é:
 echo.
 echo Data: %date%
-echo Hora: %time%
+for /F "tokens=1-2 delims=," %%A in ("%time%") do echo Hora: %%A
 timeout /t 1 >nul
 goto loop
- 
