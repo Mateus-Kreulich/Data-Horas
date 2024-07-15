@@ -23,13 +23,7 @@ Para executar o script `index.bat`, siga estas etapas:
 
 1. Faça o download ou clone este repositório para o seu computador.
 2. Navegue até o diretório onde o arquivo `index.bat` está localizado.
-3. Clique duas vezes no arquivo `index.bat` para executá-lo ou abra o Prompt de Comando e execute o seguinte comando:
-
-```batch
-index.bat
-```
-
-Você verá uma janela de console exibindo a mensagem "Hello, World!". Pressione qualquer tecla para fechar a janela do console.
+3. Clique duas vezes no arquivo `index.bat` para executá-lo.
 
 ## Contribuições
 
