@@ -11,8 +11,8 @@ Este repositório contém um script batch simples (`index.bat`) que demonstra o 
 
 O arquivo `index.bat` contém o seguinte:
 
-1. **Título**: Define o título da janela do console.
-2. **Variáveis**: Define uma variável `myVariable` com o valor "Hello, World!".
+1. **Título**: Define o título da janela do console. "Data e Hora Atual"
+2. **Variáveis**: Define uma variável `myVariable` com o valor "A data e hora atual é:".
 3. **Execução Principal**: Exibe o valor da variável no console.
 4. **Pausa**: Aguarda o usuário pressionar uma tecla para fechar o console.
 
